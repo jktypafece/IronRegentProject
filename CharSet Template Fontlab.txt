@@ -1,0 +1,4 @@
+%%FONTLAB ENCODING: -1; [Here the name of Char Set]
+%%GROUP:[Here the name of the group]
+
+This area is the code hex(uni+code hex(unicode)) of characters in List Format 
